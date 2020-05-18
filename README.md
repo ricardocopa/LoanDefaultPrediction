@@ -16,6 +16,10 @@ ModelsEvaluation.ipynb: the code of the hyperparameters tuning and models evalua
 
 ModelsEvaluation.html: the html with the running result of the hyperparameters tuning and models evaluation.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
 ## Additional Information
 
 A folder "data" is needed in the project directory with all the csv files of the dataset, that can be found in the links below. 
