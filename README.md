@@ -10,11 +10,7 @@ ProjectReport.pdf: the project report of the Capstone Project.
 
 DataAnalysis.ipynb: the code of the data analysis and pre-processing.
 
-DataAnalysis.html: the html with the running result of the data analysis and pre-processing.
-
 ModelsEvaluation.ipynb: the code of the hyperparameters tuning and models evaluation.
-
-ModelsEvaluation.html: the html with the running result of the hyperparameters tuning and models evaluation.
 
 ## License
 
